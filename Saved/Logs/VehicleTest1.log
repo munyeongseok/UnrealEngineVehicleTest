@@ -1519,3 +1519,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.08-05.41.11:062][ 50]LogSavePackage: Moving '../../../../../../Users/munye/Documents/Unreal Projects/VehicleTest1/Saved/P5914D4L2L2UYP47EDWW9L105D8B3540547CC5FAA5CC974D99E73A.tmp' to '../../../../../../Users/munye/Documents/Unreal Projects/VehicleTest1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/1/4V/P5914D4L2L2UYP47EDWW9L.uasset'
 [2022.05.08-05.41.11:075][ 50]AssetCheck: New page: 에셋 저장:  StaticMeshActor_5
 [2022.05.08-05.41.11:075][ 50]LogContentValidation: Display: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.StaticMeshActor_5 유효성 검사 중
+[2022.05.08-05.42.59:536][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.08-05.42.59:594][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/1/4V/P5914D4L2L2UYP47EDWW9L
+[2022.05.08-05.42.59:595][826]LogSavePackage: Moving '../../../../../../Users/munye/Documents/Unreal Projects/VehicleTest1/Saved/P5914D4L2L2UYP47EDWW9L07D6B12A4F2B2DBDC686678161555B20.tmp' to '../../../../../../Users/munye/Documents/Unreal Projects/VehicleTest1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/1/4V/P5914D4L2L2UYP47EDWW9L.uasset'
+[2022.05.08-05.42.59:604][826]AssetCheck: New page: 에셋 저장:  StaticMeshActor_5
+[2022.05.08-05.42.59:604][826]LogContentValidation: Display: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.StaticMeshActor_5 유효성 검사 중
