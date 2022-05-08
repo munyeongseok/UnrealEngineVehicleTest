@@ -1514,3 +1514,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.08-04.45.10:648][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2022.05.08-04.45.10:685][638]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2022.05.08-05.11.40:039][749]LogDerivedDataCache: C:/Users/munye/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.038 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.08-05.41.10:992][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.05.08-05.41.11:061][ 50]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/1/4V/P5914D4L2L2UYP47EDWW9L
+[2022.05.08-05.41.11:062][ 50]LogSavePackage: Moving '../../../../../../Users/munye/Documents/Unreal Projects/VehicleTest1/Saved/P5914D4L2L2UYP47EDWW9L105D8B3540547CC5FAA5CC974D99E73A.tmp' to '../../../../../../Users/munye/Documents/Unreal Projects/VehicleTest1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/1/4V/P5914D4L2L2UYP47EDWW9L.uasset'
+[2022.05.08-05.41.11:075][ 50]AssetCheck: New page: 에셋 저장:  StaticMeshActor_5
+[2022.05.08-05.41.11:075][ 50]LogContentValidation: Display: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.StaticMeshActor_5 유효성 검사 중
